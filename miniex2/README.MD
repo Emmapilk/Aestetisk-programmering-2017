@@ -1,4 +1,4 @@
-![Alt text](https://raw.github.com/Emmapilk/Aestetisk-programmering-2017/blob/master/miniex2/Screenshot.png)
+![ScreenShot](https://raw.github.com/Emmapilk/Aestetisk-programmering-2017/blob/master/miniex2/Screenshot.png)
 
 
 
