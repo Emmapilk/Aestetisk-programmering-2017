@@ -7,7 +7,7 @@
 <b> Run programme: </b> https://cdn.rawgit.com/Emmapilk/Aestetisk-programmering-2017/21f0364d/Miniex6/empty-example/index.html
 
 <b> My Programme: </b>
-My programme consists of different trees getting created and displayed every three seconds. It involves a few simple rules, but because these rules involve slight changes in the setup, there won't be any trees that are the same - every tree displayed is unique in its own way. I thought it was a funny detail to color every single branch differently, so that the generativity visually would be more obvious. By this i mean that every tree will be different, and by making the branches different colors, it's easier to see the different agnles the branches have on the tree, and where one branch starts and ends - whereas if everything was the same color, it would be hard to tell one branch from the other.
+My programme consists of different trees getting created and displayed every three seconds. It involves a few simple rules, but because these rules involve slight changes in the setup, there won't be any trees that are the same - every tree displayed is unique in its own way. I wanted to bring out the uniqeness of the trees and the generativity of my programme better, and therefor chose to change the color of every single branch. By doing this, it makes it easier to see the different angles in which the branches are placed on the tree Furthermore if the tree only had one specific color, it would be hard to tell one branch from the other, which would decreas the visual of the generativity in my programme.
 
 <b> The rules of my programme: </b>
  - Every tree has a completely vertical trunk in the middle of the canvas.
