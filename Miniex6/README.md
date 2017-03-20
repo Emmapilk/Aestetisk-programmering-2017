@@ -7,7 +7,7 @@
 <b> Run programme: </b> https://cdn.rawgit.com/Emmapilk/Aestetisk-programmering-2017/21f0364d/Miniex6/empty-example/index.html
 
 <b> My Programme: </b>
-My programme consists of different trees getting created and displayed every three seconds. It involves a few simple rules, but because these rules involve slight changes in the setup, there won't be any trees that are the same - every tree displayed is unique in its own way.
+My programme consists of different trees getting created and displayed every three seconds. It involves a few simple rules, but because these rules involve slight changes in the setup, there won't be any trees that are the same - every tree displayed is unique in its own way. I thought it was a funny detail to color every single branch differently, so that the generativity visually would be more obvious. By this i mean that every tree will be different, and by making the branches different colors, it's easier to see the different agnles the branches have on the tree, and where one branch starts and ends - whereas if everything was the same color, it would be hard to tell one branch from the other.
 
 <b> The rules of my programme: </b>
  - Every tree has a completely vertical trunk in the middle of the canvas.
